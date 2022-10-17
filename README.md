@@ -50,5 +50,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/5W0kZQY.gif)
+![](https://i.imgur.com/rlxvAn5.gif)
 
